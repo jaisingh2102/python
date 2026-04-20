@@ -2,4 +2,6 @@
 def greet(name):
     print("Hello, " + name + "! Welcome.")
 
-greet("alice")
+a = input("enter your name: ")
+greet(a)
+      
