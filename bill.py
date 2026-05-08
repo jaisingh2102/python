@@ -1,3 +1,4 @@
+# Electricity Bill Calculator
 units = int(input("Enter units consumed: "))
 
 if units <= 100:
