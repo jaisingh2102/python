@@ -1,5 +1,6 @@
+# This program calculates the age of a person based on their birth year and the current year.
 birth_year = int(input("Enter birth year: "))
-current_year = 2026
+current_year = int(input("Enter current year: "))
 
 age = current_year - birth_year
 print("Your age is:", age)
