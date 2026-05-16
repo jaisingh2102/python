@@ -1,3 +1,4 @@
+# This program demonstrates basic arithmetic operations in Python.
 a=100
 b=20
 c = a+b
