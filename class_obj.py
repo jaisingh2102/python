@@ -1,3 +1,4 @@
+# This code defines a class named 'student' with three attributes: name, age, and city. It then creates an instance of the student class and prints the values of these attributes.
 class student:
     name = "jay"
     age = 20
