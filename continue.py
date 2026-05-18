@@ -1,3 +1,4 @@
+# This code demonstrates the use of the 'continue' statement in a while loop.
 a = 1
 while a <= 10:
     if a == 5:
