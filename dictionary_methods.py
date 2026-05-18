@@ -1,3 +1,4 @@
+# This code demonstrates various dictionary methods in Python.
 dict = {
     "name" : "aman",
     "village" : "naikapar",
