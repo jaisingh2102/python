@@ -1,4 +1,4 @@
-# Factorial of a number using recursion
+# find the Factorial of a number using recursion
 def fact(n):
     if(n==0 or n==1):
        
