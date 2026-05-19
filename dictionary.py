@@ -1,4 +1,4 @@
-# This code demonstrates the creation and usage of a dictionary in Python.
+# This program demonstrates the creation and usage of a dictionary in Python.
 dict ={
     "name" : "aman",
     "age" : 20,
