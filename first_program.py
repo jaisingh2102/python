@@ -1,3 +1,3 @@
-# This program prints "hello world" and a self-introduction.
+# This program prints "hello world" and my name.
 print("hello world")
-print("my self jai pratap singh")
+print("my name is jai pratap singh")
