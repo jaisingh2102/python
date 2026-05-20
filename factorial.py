@@ -1,4 +1,4 @@
-# This program calculates the factorial of a given number.
+# This program calculates the factorial of a given number by the user.
 n = int(input("enter a number: "))
 factorial = 1
 for i in range(1,n+1):
