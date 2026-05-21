@@ -1,3 +1,4 @@
+# Inheritance in Python
 class animal:# This is the base class 'animal' which has a method 'eat'.
     def eat(self):
         print("animals can eat")
