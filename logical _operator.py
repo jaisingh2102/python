@@ -1,3 +1,4 @@
+# Logical operators are used to combine conditional statements. The three main logical operators in Python are:
 a =50
 b = 20
 print(not(a>b))
