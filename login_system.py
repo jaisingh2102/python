@@ -1,3 +1,4 @@
+# A simple login system that checks the username and password against saved credentials.
 saved_user = "admin"
 saved_pass = "1234"
 
