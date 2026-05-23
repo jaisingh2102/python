@@ -1,3 +1,4 @@
+# A nested dictionary is a dictionary that contains another dictionary as a value. It allows you to store and organize data in a hierarchical structure. In a nested dictionary, you can have multiple levels of dictionaries, where each level can contain its own set of key-value pairs.
 dict = {
     "person1" : {
         "name" : "aman",
