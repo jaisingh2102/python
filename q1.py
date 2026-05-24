@@ -1,4 +1,4 @@
-# Write a function named greet() that takes a name as input and prints "Hello, [name]! Welcome".
+# This program greets the user by name.
 def greet(name):
     print("Hello, " + name + "! Welcome.")
 
