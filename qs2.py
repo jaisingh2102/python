@@ -1,3 +1,4 @@
+# This program checks if the given lists are palindromes.
 list1 = [1,2,1]
 list2 = [1,2,3]
 copy_list1 = list1.copy()
