@@ -1,3 +1,4 @@
+# Create a simple result calculator for students
 name = input("Enter student name: ")
 math = int(input("Math marks: "))
 science = int(input("Science marks: "))
