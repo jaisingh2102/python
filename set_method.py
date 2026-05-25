@@ -1,3 +1,4 @@
+# Create two sets, set1 and set2, with some common and some different elements. Then, perform the following operations on the sets and print the results:
 set1 = {1,2,3}
 set2 = {2,3,4}
 #Union of sets
