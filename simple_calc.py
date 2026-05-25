@@ -1,3 +1,4 @@
+# Simple Calculator
 a = float(input("enter first number:"))
 b = float(input("enter second number:"))
 number = float(input("""enter your choice:
