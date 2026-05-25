@@ -1,3 +1,4 @@
+# Create a dictionary to store the marks of different subjects
 marks ={}
 a = int(input("enter the marks of javascript:"))
 marks.update({"javascript": a})
