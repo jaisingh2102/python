@@ -1,3 +1,4 @@
+# Shopping Bill Calculator
 price = int(input("Enter product price: "))
 quantity = int(input("Enter quantity: "))
 
