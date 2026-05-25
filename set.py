@@ -1,6 +1,6 @@
 #set:- set is a collection of unordered, unique items.
 #It is mutable, meaning you can add or remove items from it. 
-#Sets are defined using curly braces {} or the set() constructor.
+
 collection = {"apple","banana","mango","grapse","papaya",1,2,1,2,3,4}
 print(collection) #prints the whole set
 print(type(collection)) #prints the type of the collection
