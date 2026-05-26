@@ -1,3 +1,4 @@
+#string functions are built-in functions that can be used to manipulate and work with strings in Python. Here are some commonly used string functions:
 str1 = "india is the 5th largest economy in the world"
 final1 = str1.endswith("st")#true if string ends with substring else false
 final2 = str1.startswith("in")#true if string starts with substring else false
