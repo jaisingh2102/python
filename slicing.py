@@ -1,3 +1,4 @@
+#slicing is used to access part of a string
 """accessing part of a string syntex = str[starting_index:ending_index] in this ending index is not included
 str[ :4] is read 0 to 4
 str[0: ] is read 0 to end string"""  
