@@ -1,3 +1,4 @@
+#squaring a list of numbers using map function
 numbers = [1, 2, 3, 4]
 
 def square(x):
