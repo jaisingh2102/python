@@ -1,3 +1,4 @@
+# This program calculates the sum of the first n natural numbers using recursion.
 def calc_sum(n):
     if n == 1:
         return 1
