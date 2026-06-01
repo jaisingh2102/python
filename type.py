@@ -1,3 +1,4 @@
+# Data Types in Python
 name = "aman"
 age = 21
 balance = 505000.574
