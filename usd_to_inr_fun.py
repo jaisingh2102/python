@@ -1,4 +1,4 @@
-# Function to convert USD to INR
+# Function to convert USD to INR.
 def usd_to_inr(usd_amount, exchange_rate):
     return usd_amount * exchange_rate
 
