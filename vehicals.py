@@ -7,6 +7,6 @@ class car(vehicle):# The 'car' class inherits from the 'vehicle' class, meaning 
     def drive(self):
         print("car is driving")
 
-c = car()# An instance of the 'car' class is created, which can access both the 'start' method from the 'vehicle' class and the 'drive' method from the 'car' class.
+c = car()
 c.start()
 c.drive()                
