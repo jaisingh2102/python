@@ -1,4 +1,4 @@
-#search number x from the given list using while loop
+# This program searches for a number in a list of squares using a while loop.
 num = [1,4,9,16,25,36,49,64,81,100]
 x = int(input("enter a number to search: "))
 i = 0
