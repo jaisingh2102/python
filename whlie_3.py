@@ -1,3 +1,4 @@
+# Program to print multiplication table of a number using while loop
 a = int(input("enter a number: "))
 b = 1
 while b<=10:
