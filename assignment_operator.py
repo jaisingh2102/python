@@ -1,4 +1,4 @@
-# This program demonstrates the use of assignment operators in Python.
+# Program to demonstrate the use of assignment operators in Python.
 num = 50
 print(num)
 num += 10
