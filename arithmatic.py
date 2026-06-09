@@ -1,6 +1,6 @@
-# This program demonstrates basic arithmetic operations in Python.
-a=100
-b=20
+# Program to perform basic arithmetic operations (addition, subtraction, multiplication, division, modulus) on two numbers and display the results.
+a = float(input("Enter the first number: "))
+b = float(input("Enter the second number: "))
 c = a+b
 d = a-b
 e = a*b
