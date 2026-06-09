@@ -1,4 +1,4 @@
-# This program calculates the age of a person based on their birth year and the current year.
+# Program to calculate age based on birth year and current year, and determine if the person is an adult or a minor.
 birth_year = int(input("Enter birth year: "))
 current_year = int(input("Enter current year: "))
 
