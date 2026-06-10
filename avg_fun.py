@@ -1,4 +1,4 @@
-# Average Calculator
+# Average Calculator by 3 numbers
 def calc_avg(a,b,c):
     avg = (a+b+c)/3
     return avg
