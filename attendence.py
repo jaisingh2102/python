@@ -1,4 +1,4 @@
-# Attendance Calculation
+# Attendance Calculation of a student
 total = int(input("Total classes: "))
 attended = int(input("Classes attended: "))
 
