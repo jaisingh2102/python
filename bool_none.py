@@ -1,4 +1,4 @@
-# This program demonstrates the use of boolean and None types in Python.
+# Boolean and None Types in Python
 age = 50
 old = False
 a = None
