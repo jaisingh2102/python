@@ -1,4 +1,4 @@
-#it is use to combine to or more string together
+# Write a Python program to concatenate three strings and print the result.
 str1 = "jay"
 str2 = "pratap"
 str3 = "singh"
