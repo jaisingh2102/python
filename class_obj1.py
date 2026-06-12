@@ -1,4 +1,4 @@
-# This code defines a class named 'employee' with an initializer method that takes four parameters: name, age, salary, and id. It then creates a list to store employee objects and prompts the user to enter the details of multiple employees. Finally, it prints the details of each employee stored in the list.
+# Define a class called "employee" with attributes such as name, age, salary, and id. Create a list of employee objects and print their details.
 class employee:
     def __init__(self,name,age,salary,id):
         self.name = name
