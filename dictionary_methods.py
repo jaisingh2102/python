@@ -1,4 +1,4 @@
-# This code demonstrates various dictionary methods in Python.
+#Dictionary is a collection of key value pairs
 dict = {
     "name" : "aman",
     "village" : "naikapar",
