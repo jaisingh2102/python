@@ -1,4 +1,4 @@
-#find factorial of the n number with the help of function
+# Function to calculate factorial of a number
 def factorial(n):
     if n == 0:
         return 1
