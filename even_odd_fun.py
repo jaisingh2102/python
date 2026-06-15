@@ -1,4 +1,4 @@
-# This function checks if a number is even or odd and returns the result as a string.
+# This function checks if a number is even or odd.
 def calc_even_odd(num):
     if num%2 == 0:
         return "even"
