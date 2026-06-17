@@ -1,4 +1,4 @@
-# This program defines a list of numbers and uses a for loop to print each element of the list. in that way we can iterate through the list and perform some operations on it.
+# This is a simple for loop that iterates through a list of numbers and prints each number to the console.
+print(i)
 list = [1,2,3,4,5]
 for i in list:
-    print(i)
