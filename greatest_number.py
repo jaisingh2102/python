@@ -2,6 +2,6 @@
 a = int(input("enter the first number: "))
 b = int(input("enter the second number: "))
 if a >= b:
-    print("true")
+    print("The greatest number is:", a)
 else:
-    print("false")
+    print("The greatest number is:", b)
