@@ -1,4 +1,4 @@
-# A simple number guessing game where the user has to guess a randomly generated number between 1 and 1000.
+# This program is a simple number guessing game where the user tries to guess a randomly generated secret number between 1 and 1000. The program provides feedback on whether the user's guess is too high, too low, or correct, and keeps track of the number of attempts made.
 import random
 
 # Use a different name for the secret number to avoid overwriting the 'random' module
