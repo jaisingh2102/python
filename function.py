@@ -1,4 +1,4 @@
-# This program defines a function to calculate the sum of two numbers.
+#function to calculate sum of two numbers
 def sum(a,b):#function definition with parameters a and b
     s = a+b
     return s
