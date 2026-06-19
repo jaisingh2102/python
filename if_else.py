@@ -1,4 +1,4 @@
-# This code takes the marks of a student as input and assigns a grade based on the following criteria:
+#This program takes the marks of a student as input and assigns a grade based on the following criteria:
 a = int(input("enter marks of student: "))
 if a>=90:
     print("grade A")
