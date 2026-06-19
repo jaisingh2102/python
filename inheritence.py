@@ -1,4 +1,4 @@
-# Inheritance in Python
+# This program demonstrates inheritance in Python. It defines a base class 'animal' with a method 'eat', and a derived class 'dog' that inherits from 'animal' and adds its own method 'bark'. An instance of the 'dog' class is created to show that it can access both the 'eat' method from the 'animal' class and the 'bark' method from the 'dog' class.
 class animal:# This is the base class 'animal' which has a method 'eat'.
     def eat(self):
         print("animals can eat")
