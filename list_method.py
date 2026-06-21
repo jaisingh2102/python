@@ -1,4 +1,4 @@
-# List methods in Python
+# This program demonstrates various list methods in Python
 list = [5,7,3,2,9]
 list.append(6) # adds an element to the end of the list
 print(list)
