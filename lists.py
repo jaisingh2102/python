@@ -1,6 +1,4 @@
-# liste:- a build-in data structure that stores multiple elements of different data types in a single variable.
-
-# Lists are defined using square brackets [] and elements are separated by commas.
+# list in python
 a = ["aman", 20, 7.52, "codder"]
 print(type(a))
 print(a)
